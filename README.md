@@ -12,4 +12,4 @@ The box shares 1 folder with your host machine mapping the the ./shared folder f
 ## MySQL Database Access
 Server ip: 192.168.33.1  
 Mysql User: root  
-Mysql Password: root  
+Mysql Password: !Passw0rd%  
